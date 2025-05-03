@@ -82,7 +82,7 @@ export default function EducationPage() {
                   "Java",
                   "Html",
                   "Css", 
-                  "MySQL"
+                  "MySQL",
                   "Next Js",
                 ].map((skill, index) => (
                   <span
