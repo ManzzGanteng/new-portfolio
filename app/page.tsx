@@ -385,7 +385,7 @@ export default function Home() {
             </div>
 
             <div className="text-sm text-purple-500 font-dm-sans">
-              © {new Date().getFullYear()} Manz Portfolio. All rights reserved.
+              © {new Date().getFullYear()}Portfolio. All rights reserved.
             </div>
           </div>
         </div>
